@@ -12,4 +12,7 @@ makeCacheMatrix <- function(x = matrix()) {
 
 cacheSolve <- function(x, ...) {
         ## Return a matrix that is the inverse of 'x'
+        ## Cambios locos
+        ## Esta vez si tiene que dar
+        x <- "hola"
 }
